@@ -41,7 +41,6 @@ li {
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    gap: 20px;
 }
 
 header {
@@ -85,6 +84,7 @@ main {
     display: flex;
     flex-direction: column;
     flex: 1;
+    gap: 20px;
     padding: 20px 40px;
     z-index: 1;
 }
